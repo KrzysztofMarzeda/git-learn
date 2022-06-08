@@ -14,6 +14,9 @@
     "psr/log": {
         "version": "3.0.0"
     },
+    "symfony/asset": {
+        "version": "v6.1.0"
+    },
     "symfony/cache": {
         "version": "v6.1.0"
     },
@@ -46,9 +49,6 @@
         "files": [
             "config/packages/debug.yaml"
         ]
-    },
-    "symfony/debug-pack": {
-        "version": "v1.0.10"
     },
     "symfony/dependency-injection": {
         "version": "v6.1.0"
@@ -134,9 +134,6 @@
     },
     "symfony/polyfill-mbstring": {
         "version": "v1.26.0"
-    },
-    "symfony/profiler-pack": {
-        "version": "v1.0.6"
     },
     "symfony/routing": {
         "version": "6.1",
